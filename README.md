@@ -26,3 +26,7 @@ The REST end-points for login and signup are as follows
 3. Spring Data JPA (Data persistence)
 4. MySQL (Database)
 5. JWT Authentication and authorization
+
+## API Documentation and Integration Testing 
+
+API documentation can be accessed via [Swagger UI](http://localhost:8080/swagger-ui.html) 
